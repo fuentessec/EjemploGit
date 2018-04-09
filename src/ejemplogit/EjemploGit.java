@@ -23,4 +23,8 @@ public class EjemploGit {
         System.out.println("Esto esta mal");
     }
     
+    public static void nuevaFuncionalidad (){
+        System.out.println("Esta funcinalidad esta a medias");
+    } 
+    
 }
